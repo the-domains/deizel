@@ -1,0 +1,14 @@
+layout_spectrum: 0.3037960808724165
+typography_spectrum: 0.5000599448103458
+color:
+  brandStrength: 0.908930002944544
+  lightness: 0.9703626548871398
+  saturation: 0.6997259363997728
+  rhythmicContrast: 0.2598539984319359
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: deizel
